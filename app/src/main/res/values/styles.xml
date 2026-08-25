@@ -1,0 +1,14 @@
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#6200EE</item>
+    </style>
+
+    <style name="CalcButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>
